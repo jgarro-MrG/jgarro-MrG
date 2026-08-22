@@ -1,16 +1,30 @@
-## Hi there 👋
+## Jorge Garro Elizondo
 
-<!--
-**jgarro-MrG/jgarro-MrG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer in San José, Costa Rica. I design, build, and operate
+production systems end to end.
 
-Here are some ideas to get you started:
+Right now I run **NDSWorks**, where I'm the architect and sole maintainer
+of a seven-module platform serving 1,000+ clients for a travel and visa
+consultancy — a shared SSO service, an ETL pipeline over 35,000+ records,
+and third-party integrations across the whole client workflow. Node,
+Express, PostgreSQL, deployed as serverless functions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before that: eight years in enterprise infrastructure and L2/L3 support
+at HP, Experian, and Tek-Experts — WebLogic, WebSphere, MS SQL, Oracle,
+incident response, root cause analysis. Then five years teaching software
+development to high school students in Louisiana, which is still the best
+way I know to find out whether you actually understand something.
+
+**Working with:** TypeScript · Node · Express · Python · Flask · FastAPI ·
+PostgreSQL · SQL · Bash · Linux · Vercel · Render
+
+**Building:**
+- [ascend-ai](https://github.com/jgarro-MrG/ascend-ai) — job-application
+  platform: Flask, Gemini, dual-mode SQLite/Turso persistence, SSE streaming
+- tico-iva — Costa Rican tax tooling: parses electronic invoices and
+  computes monthly liability (FastAPI, in migration)
+
+Open to backend roles — local, LATAM-remote, or international.
+Bilingual EN/ES.
+
+📫 jgarro@ndsworks.com · [LinkedIn](https://www.linkedin.com/in/jorgegarro/)
