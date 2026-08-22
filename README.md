@@ -21,7 +21,7 @@ PostgreSQL · SQL · Bash · Linux · Vercel · Render
 **Building:**
 - [ascend-ai](https://github.com/jgarro-MrG/ascend-ai) — job-application
   platform: Flask, Gemini, dual-mode SQLite/Turso persistence, SSE streaming
-- tico-iva — Costa Rican tax tooling: parses electronic invoices and
+- [tico-iva](https://github.com/jgarro-MrG/tico-iva) — Costa Rican tax tooling: parses electronic invoices and
   computes monthly liability (FastAPI, in migration)
 
 Open to backend roles — local, LATAM-remote, or international.
